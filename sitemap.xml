@@ -1,48 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://pokerdom1.vercel.app/</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/hf.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/register.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/casino.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/betting.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/bonus.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/download.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/app.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/reviews.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/payments.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/deposit-withdraw.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/deposit.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/withdraw.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/verification.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/games.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/support.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/play/book-of-dead.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/play/sweet-bonanza.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/play/wild-bandito.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/geo/russia.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/geo/kazakhstan.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/geo/germany.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/geo/finland.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/geo/canada.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/geo/brazil.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/login.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/mirror.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/vip-club.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/tournaments.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/jackpots.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/crypto-casino.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/live-casino.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/no-deposit-bonus.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/free-spins.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/contacts.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/terms.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/privacy.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/responsible-gaming.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/poker.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/slots.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/mobile.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/promotions.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/strategy.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/faq.html</loc></url>
-  <url><loc>https://pokerdom1.vercel.app/aml-kyc.html</loc></url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/hf.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/register.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/casino.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/betting.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/bonus.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/download.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/app.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/reviews.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/payments.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/deposit-withdraw.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/deposit.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/withdraw.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/verification.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/games.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/support.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/play/book-of-dead.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/play/sweet-bonanza.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/play/wild-bandito.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/geo/russia.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/geo/kazakhstan.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/geo/germany.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/geo/finland.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/geo/canada.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/geo/brazil.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/login.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/mirror.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/vip-club.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/tournaments.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/jackpots.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/crypto-casino.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/live-casino.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/no-deposit-bonus.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/free-spins.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/contacts.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/terms.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/privacy.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/responsible-gaming.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/poker.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/slots.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/mobile.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/promotions.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/strategy.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/faq.html</loc>
+</url>
+
+<url>
+<loc>https://pokerdom1.vercel.app/aml-kyc.html</loc>
+</url>
+
 </urlset>
